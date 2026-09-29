@@ -193,7 +193,7 @@ $$\underbrace{p(\map{T} \map{A} \map{T}^{-1})}_{\in \End(W)} = \map{T} \underbra
 
 ## Nilpotente operatoren
 
-* Een element $a$ fvan een ring $R$ dat voldoet aan aan $a^s = 0$ heet **nilpotent** met index $s$ (als $n=s$ de kleinste waarde is waarvoor $a^n=0$)
+* Een element $a$ van een ring $R$ dat voldoet aan aan $a^s = 0$ heet **nilpotent** met index $s$ (als $n=s$ de kleinste waarde is waarvoor $a^n=0$)
 
 * Nilpotente operatoren $\map{N} \in \End(V)$ voldoen dus aan $\map{N}^s = \zeromap$ en spelen een rol bij de veralgemeene eigenwaardendecompositie
 
