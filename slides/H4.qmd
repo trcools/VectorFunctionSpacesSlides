@@ -354,7 +354,7 @@ Beschouw de rij $(f_n \in C^0([0,1],\bbR))_{n \in \bbN_0}$ met $f_n(x) = \exp(-n
 
 ## Compacte verzamelingen
 
-In een oneindig-dimensionale vectorruimte zijn gesloten begrensde deelverzamelingen niet noodzakelijkcompact.
+In een oneindig-dimensionale vectorruimte zijn gesloten begrensde deelverzamelingen niet noodzakelijk compact.
 
 * Voorbeeld: $C^0([a,b],\bbF)$ met $\norm{\cdot}_\infty$
   
