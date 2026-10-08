@@ -524,7 +524,7 @@ Beschouw nu specifiek $\map{A}\in \End(V)$ voor een Banachruimte $(V,\norm{\cdot
 
   (oefeningen, zelf proberen)
 
-  * ($\norm{\mat{A}}_{2 \to 2}$ is moeilijker te berekenen, en is gegeven door de grootste "singuliere waarde" (zie H6))
+  * ($\norm{\mat{A}}_{2 \to 2}$ is moeilijker te berekenen, en is gegeven door de grootste "singuliere waarde" (zie H7))
 
 ## Consistente matrixnormen
 
