@@ -503,7 +503,7 @@ Beschouw rij $(\ve_n, n \in \bbN_0)$ van orthonormale vectoren:
 
   $$F^k = \inner{f_k}{f} = \frac{1}{\sqrt{L}} \int_{0}^{L} f(x) \exp\left(-\irm \frac{2\pi}{L} k x\right)\,\drm x$$
 
-* zie hoofdstuk 7 voor meer details
+* zie hoofdstuk 9 voor meer details
 
 ## Gram-Schmidt {.smaller}
 
