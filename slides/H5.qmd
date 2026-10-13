@@ -339,12 +339,12 @@ Inwendig product op vectorruimte $V$ = hermitische, positief definiete sesquilin
 * Gegeven een genormeerde vectorruimte $(V,\norm{\cdot})$ waarbij de norm voldoet aan de parallellogramwet. Dan kan uit die norm een inwendig product worden gedefinieerd via de zogenaamde **polarisatie-identiteit**:
 
 
-  \begin{align}
+  \begin{align*}
 	\inner{\vv}{\vw} = \begin{cases}
   \frac{1}{4}\norm{\vv + \vw}^2 - \frac{1}{4}\norm{\vv - \vw}^2,&\text{$V$ real}\\
   \frac{1}{4}\norm{\vv + \vw}^2 - \frac{1}{4}\norm{\vv - \vw}^2 + \frac{\irm}{4}\norm{\vv - \irm \vw}^2 - \frac{\irm}{4}\norm{\vv + \irm \vw}^2,&\text{$V$ complex}
   \end{cases}
-  \end{align}
+  \end{align*}
 
   (bewijs niet te kennen)
 
